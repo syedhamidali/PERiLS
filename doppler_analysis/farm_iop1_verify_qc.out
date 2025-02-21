@@ -1,0 +1,17 @@
+bell-a249.rcac.purdue.edu
+<frozen importlib._bootstrap>:283: DeprecationWarning: the load_module() method is deprecated and slated for removal in Python 3.12; use exec_module() instead
+
+## You are using the Python ARM Radar Toolkit (Py-ART), an open source
+## library for working with weather radar data. Py-ART is partly
+## supported by the U.S. Department of Energy as part of the Atmospheric
+## Radiation Measurement (ARM) Climate Research Facility, an Office of
+## Science user facility.
+##
+## If you use this software to prepare a publication, please cite:
+##
+##     JJ Helmus and SM Collis, JORS 2016, doi: 10.5334/jors.119
+
+Traceback (most recent call last):
+  File "/home/syed44/PERiLS/doppler_analysis/verify_qc.py", line 39, in <module>
+    images.append(Image.open(file_name))
+NameError: name 'Image' is not defined. Did you mean: 'images'?

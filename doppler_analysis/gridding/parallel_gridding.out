@@ -1,0 +1,1801 @@
+bell-a127.rcac.purdue.edu
+
+The following have been reloaded with a version change:
+  1) anaconda/2020.02-py37 => anaconda/2020.11-py38
+
+<frozen importlib._bootstrap>:283: DeprecationWarning: the load_module() method is deprecated and slated for removal in Python 3.12; use exec_module() instead
+
+## You are using the Python ARM Radar Toolkit (Py-ART), an open source
+## library for working with weather radar data. Py-ART is partly
+## supported by the U.S. Department of Energy as part of the Atmospheric
+## Radiation Measurement (ARM) Climate Research Facility, an Office of
+## Science user facility.
+##
+## If you use this software to prepare a publication, please cite:
+##
+##     JJ Helmus and SM Collis, JORS 2016, doi: 10.5334/jors.119
+
+Number of NOXP files: 202
+Reading file: NOX220330210617.RAWC1X2
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330210617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330210617.nc
+Reading file: NOX220331013616.RAWC2FM
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331013616.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331013616.nc
+Reading file: NOX220330183600.RAWC1VR
+Not enough sweeps in NOX220330183600.RAWC1VR to process.
+Reading file: NOX220330235732.RAWC21M
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330235732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330235732.nc
+Reading file: NOX220330224617.RAWC1YK
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330224617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330224617.nc
+Reading file: NOX220331012622.RAWC2BF
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331012622.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331012622.nc
+Reading file: NOX220330225617.RAWC1YR
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330225617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330225617.nc
+Reading file: NOX220331005003.RAWC261
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331005003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331005003.nc
+Reading file: NOX220330184233.RAWC1VS
+Not enough sweeps in NOX220330184233.RAWC1VS to process.
+Reading file: NOX220330235202.RAWC213
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330235202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330235202.nc
+Reading file: NOX220330232735.RAWC1Z7
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330232735.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330232735.nc
+Reading file: NOX220330233733.RAWC1ZC
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330233733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330233733.nc
+Reading file: NOX220330225002.RAWC1YM
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330225002.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330225002.nc
+Reading file: NOX220330205617.RAWC1WX
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330205617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330205617.nc
+Reading file: NOX220331014617.RAWC2JJ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331014617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331014617.nc
+Reading file: NOX220330182928.RAWC1VP
+Not enough sweeps in NOX220330182928.RAWC1VP to process.
+Reading file: NOX220330235617.RAWC21D
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330235617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330235617.nc
+Reading file: NOX220331003733.RAWC24N
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331003733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331003733.nc
+Reading file: NOX220330234003.RAWC1ZD
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330234003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330234003.nc
+Reading file: NOX220331005418.RAWC266
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331005418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331005418.nc
+Reading file: NOX220330185904.RAWC1VV
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330185904.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330185904.nc
+Reading file: NOX220331002201.RAWC245
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331002201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331002201.nc
+Reading file: NOX220330234202.RAWC1ZE
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330234202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330234202.nc
+Reading file: NOX220330190803.RAWC1W0
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330190803.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330190803.nc
+Reading file: NOX220331003201.RAWC24J
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331003201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331003201.nc
+Reading file: NOX220330200359.RAWC1WC
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330200359.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330200359.nc
+Reading file: NOX220331001201.RAWC22Z
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331001201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331001201.nc
+Reading file: NOX220330190137.RAWC1VW
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330190137.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330190137.nc
+Reading file: NOX220331002736.RAWC248
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331002736.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331002736.nc
+Reading file: NOX220330221003.RAWC1Y1
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330221003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330221003.nc
+Reading file: NOX220330230732.RAWC1YX
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330230732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330230732.nc
+Reading file: NOX220330230418.RAWC1YV
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330230418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330230418.nc
+Reading file: NOX220331015616.RAWC2N6
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331015616.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331015616.nc
+Reading file: NOX220330232201.RAWC1Z4
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330232201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330232201.nc
+Reading file: NOX220330190317.RAWC1VX
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330190317.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330190317.nc
+Reading file: NOX220331001732.RAWC235
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331001732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331001732.nc
+Reading file: NOX220330184906.RAWC1VT
+Not enough sweeps in NOX220330184906.RAWC1VT to process.
+Reading file: NOX220330235419.RAWC21C
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330235419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330235419.nc
+Reading file: NOX220331010003.RAWC27Z
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331010003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331010003.nc
+Reading file: NOX220330233202.RAWC1Z9
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330233202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330233202.nc
+Reading file: NOX220330231731.RAWC1Z2
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330231731.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330231731.nc
+Reading file: NOX220330230201.RAWC1YU
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330230201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330230201.nc
+Reading file: NOX220330200119.RAWC1WB
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330200119.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330200119.nc
+Reading file: NOX220331000732.RAWC22W
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331000732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331000732.nc
+Reading file: NOX220330220003.RAWC1XW
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330220003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330220003.nc
+Reading file: NOX220330233617.RAWC1ZB
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330233617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330233617.nc
+Reading file: NOX220331002620.RAWC247
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331002620.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331002620.nc
+Reading file: NOX220331004733.RAWC25M
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331004733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331004733.nc
+Reading file: NOX220330201030.RAWC1WE
+Not enough sweeps in NOX220330201030.RAWC1WE to process.
+Reading file: NOX220331000003.RAWC229
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331000003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331000003.nc
+Reading file: NOX220331010417.RAWC287
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331010417.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331010417.nc
+Reading file: NOX220330230003.RAWC1YT
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330230003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330230003.nc
+Reading file: NOX220331020618.RAWC2NB
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331020618.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331020618.nc
+Reading file: NOX220330224419.RAWC1YJ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330224419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330224419.nc
+Reading file: NOX220330221418.RAWC1Y3
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330221418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330221418.nc
+Reading file: NOX220330224003.RAWC1YG
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330224003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330224003.nc
+Reading file: NOX220330231201.RAWC1YZ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330231201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330231201.nc
+Reading file: NOX220330212003.RAWC1X9
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330212003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330212003.nc
+Reading file: NOX220330222003.RAWC1Y6
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330222003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330222003.nc
+Reading file: NOX220330213419.RAWC1XG
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330213419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330213419.nc
+Reading file: NOX220330234419.RAWC1ZF
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330234419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330234419.nc
+Reading file: NOX220331005617.RAWC269
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331005617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331005617.nc
+Reading file: NOX220331014418.RAWC2JG
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331014418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331014418.nc
+Reading file: NOX220330223618.RAWC1YE
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330223618.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330223618.nc
+Reading file: NOX220331014003.RAWC2FP
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331014003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331014003.nc
+Reading file: NOX220330195839.RAWC1WA
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330195839.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330195839.nc
+Reading file: NOX220331001418.RAWC230
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331001418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331001418.nc
+Reading file: NOX220331012418.RAWC2BB
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331012418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331012418.nc
+Reading file: NOX220330230617.RAWC1YW
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330230617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330230617.nc
+Reading file: NOX220331004202.RAWC258
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331004202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331004202.nc
+Reading file: NOX220330231616.RAWC1Z1
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330231616.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330231616.nc
+Reading file: NOX220331004003.RAWC24P
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331004003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331004003.nc
+Reading file: NOX220331015003.RAWC2N3
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331015003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331015003.nc
+Reading file: NOX220330222623.RAWC1Y9
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330222623.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330222623.nc
+Reading file: NOX220331020003.RAWC2N8
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331020003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331020003.nc
+Reading file: NOX220330202018.RAWC1WF
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330202018.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330202018.nc
+Reading file: NOX220330215003.RAWC1XR
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330215003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330215003.nc
+Reading file: NOX220330192545.RAWC1W4
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330192545.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330192545.nc
+Reading file: NOX220331003003.RAWC24H
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331003003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331003003.nc
+Reading file: NOX220331013731.RAWC2FN
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331013731.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331013731.nc
+Reading file: NOX220330203003.RAWC1WH
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330203003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330203003.nc
+Reading file: NOX220330231417.RAWC1Z0
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330231417.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330231417.nc
+Reading file: NOX220331011202.RAWC28F
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331011202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331011202.nc
+Reading file: NOX220330232002.RAWC1Z3
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330232002.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330232002.nc
+Reading file: NOX220331011003.RAWC28C
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331011003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331011003.nc
+Reading file: NOX220330223003.RAWC1YB
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330223003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330223003.nc
+Reading file: NOX220330211419.RAWC1X6
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330211419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330211419.nc
+Reading file: NOX220330215419.RAWC1XT
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330215419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330215419.nc
+Reading file: NOX220330231003.RAWC1YY
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330231003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330231003.nc
+Reading file: NOX220331012003.RAWC2B7
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331012003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331012003.nc
+Reading file: NOX220330212737.RAWC1XD
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330212737.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330212737.nc
+Reading file: NOX220330190627.RAWC1VZ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330190627.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330190627.nc
+Reading file: NOX220331002422.RAWC246
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331002422.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331002422.nc
+Reading file: NOX220331013003.RAWC2DD
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331013003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331013003.nc
+Reading file: NOX220330203732.RAWC1WM
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330203732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330203732.nc
+Reading file: NOX220330191248.RAWC1W2
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330191248.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330191248.nc
+Reading file: NOX220331000419.RAWC22U
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331000419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331000419.nc
+Reading file: NOX220331011419.RAWC296
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331011419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331011419.nc
+Reading file: NOX220330235003.RAWC1ZJ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330235003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330235003.nc
+Reading file: NOX220331010616.RAWC288
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331010616.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331010616.nc
+Reading file: NOX220331021617.RAWC2NG
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331021617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331021617.nc
+Reading file: NOX220330225732.RAWC1YS
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330225732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330225732.nc
+Reading file: NOX220330212424.RAWC1XB
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330212424.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330212424.nc
+Reading file: NOX220330210732.RAWC1X3
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330210732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330210732.nc
+Reading file: NOX220330204733.RAWC1WT
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330204733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330204733.nc
+Reading file: NOX220330214003.RAWC1XK
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330214003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330214003.nc
+Reading file: NOX220330223419.RAWC1YD
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330223419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330223419.nc
+Reading file: NOX220330211003.RAWC1X4
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330211003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330211003.nc
+Reading file: NOX220330204003.RAWC1WN
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330204003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330204003.nc
+Reading file: NOX220330234617.RAWC1ZG
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330234617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330234617.nc
+Reading file: NOX220331003617.RAWC24M
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331003617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331003617.nc
+Reading file: NOX220331005201.RAWC265
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331005201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331005201.nc
+Reading file: NOX220330205003.RAWC1WU
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330205003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330205003.nc
+Reading file: NOX220330220418.RAWC1XY
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330220418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330220418.nc
+Reading file: NOX220330215202.RAWC1XS
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330215202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330215202.nc
+Reading file: NOX220330222424.RAWC1Y8
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330222424.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330222424.nc
+Reading file: NOX220330203419.RAWC1WK
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330203419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330203419.nc
+Reading file: NOX220330200639.RAWC1WD
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330200639.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330200639.nc
+Reading file: NOX220331001003.RAWC22X
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331001003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331001003.nc
+Reading file: NOX220331011617.RAWC297
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331011617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331011617.nc
+Reading file: NOX220331021002.RAWC2ND
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331021002.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331021002.nc
+Reading file: NOX220330213004.RAWC1XE
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330213004.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330213004.nc
+Reading file: NOX220330190452.RAWC1VY
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330190452.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330190452.nc
+Reading file: NOX220331002003.RAWC23V
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331002003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331002003.nc
+Reading file: NOX220331013418.RAWC2FK
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331013418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331013418.nc
+Reading file: NOX220330203617.RAWC1WL
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330203617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330203617.nc
+Reading file: NOX220331015419.RAWC2N5
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331015419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331015419.nc
+Reading file: NOX220330204419.RAWC1WR
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330204419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330204419.nc
+Reading file: NOX220330185731.RAWC1VU
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330185731.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330185731.nc
+Reading file: NOX220331001617.RAWC231
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331001617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331001617.nc
+Reading file: NOX220331004617.RAWC25L
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331004617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331004617.nc
+Reading file: NOX220331012736.RAWC2D6
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331012736.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331012736.nc
+Reading file: NOX220330234733.RAWC1ZH
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330234733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330234733.nc
+Reading file: NOX220331021418.RAWC2NF
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331021418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331021418.nc
+Reading file: NOX220330205732.RAWC1WY
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330205732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330205732.nc
+Reading file: NOX220330192117.RAWC1W3
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330192117.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330192117.nc
+Reading file: NOX220331000617.RAWC22V
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331000617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331000617.nc
+Reading file: NOX220331004419.RAWC25K
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331004419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331004419.nc
+Reading file: NOX220331020733.RAWC2NC
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331020733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331020733.nc
+Reading file: NOX220330204617.RAWC1WS
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330204617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330204617.nc
+Reading file: NOX220331014733.RAWC2LJ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331014733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331014733.nc
+Reading file: NOX220330210201.RAWC1X0
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330210201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330210201.nc
+Reading file: NOX220330221617.RAWC1Y4
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330221617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330221617.nc
+Reading file: NOX220331011733.RAWC29N
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331011733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331011733.nc
+Reading file: NOX220330212207.RAWC1XA
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330212207.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330212207.nc
+Reading file: NOX220330232620.RAWC1Z6
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330232620.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330232620.nc
+Reading file: NOX220331003419.RAWC24L
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331003419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331003419.nc
+Reading file: NOX220331012201.RAWC2B8
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331012201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331012201.nc
+Reading file: NOX220330210002.RAWC1WZ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330210002.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330210002.nc
+Reading file: NOX220330222207.RAWC1Y7
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330222207.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330222207.nc
+Reading file: NOX220330221732.RAWC1Y5
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330221732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330221732.nc
+Reading file: NOX220330191112.RAWC1W1
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330191112.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330191112.nc
+Reading file: NOX220331000202.RAWC22T
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331000202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331000202.nc
+Reading file: NOX220331021732.RAWC2NH
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331021732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331021732.nc
+Reading file: NOX220330210418.RAWC1X1
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330210418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330210418.nc
+Reading file: NOX220330224732.RAWC1YL
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330224732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330224732.nc
+Reading file: NOX220330211202.RAWC1X5
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330211202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330211202.nc
+Reading file: NOX220330213617.RAWC1XH
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330213617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330213617.nc
+Reading file: NOX220331014201.RAWC2HX
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331014201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331014201.nc
+Reading file: NOX220330211617.RAWC1X7
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330211617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330211617.nc
+Reading file: NOX220331015202.RAWC2N4
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331015202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331015202.nc
+Reading file: NOX220330215733.RAWC1XV
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330215733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330215733.nc
+Reading file: NOX220330214202.RAWC1XL
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330214202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330214202.nc
+Reading file: NOX220330214419.RAWC1XM
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330214419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330214419.nc
+Reading file: NOX220330225201.RAWC1YN
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330225201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330225201.nc
+Reading file: NOX220330233419.RAWC1ZA
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330233419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330233419.nc
+Reading file: NOX220331010731.RAWC28B
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331010731.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331010731.nc
+Reading file: NOX220330205419.RAWC1WW
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330205419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330205419.nc
+Reading file: NOX220330233003.RAWC1Z8
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330233003.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330233003.nc
+Reading file: NOX220331005732.RAWC26B
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331005732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331005732.nc
+Reading file: NOX220330214733.RAWC1XP
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330214733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330214733.nc
+Reading file: NOX220330215617.RAWC1XU
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330215617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330215617.nc
+Reading file: NOX220331020419.RAWC2NA
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331020419.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331020419.nc
+Reading file: NOX220330220732.RAWC1Y0
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330220732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330220732.nc
+Reading file: NOX220330221201.RAWC1Y2
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330221201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330221201.nc
+Reading file: NOX220330225418.RAWC1YP
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330225418.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330225418.nc
+Reading file: NOX220331021201.RAWC2NE
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331021201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331021201.nc
+Reading file: NOX220330232421.RAWC1Z5
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330232421.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330232421.nc
+Reading file: NOX220331010201.RAWC284
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331010201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331010201.nc
+Reading file: NOX220330205202.RAWC1WV
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330205202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330205202.nc
+Reading file: NOX220330220617.RAWC1XZ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330220617.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330220617.nc
+Reading file: NOX220331013201.RAWC2E8
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331013201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331013201.nc
+Reading file: NOX220330211733.RAWC1X8
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330211733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330211733.nc
+Reading file: NOX220330220201.RAWC1XX
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330220201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330220201.nc
+Reading file: NOX220330212622.RAWC1XC
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330212622.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330212622.nc
+Reading file: NOX220331015731.RAWC2N7
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331015731.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331015731.nc
+Reading file: NOX220330213202.RAWC1XF
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330213202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330213202.nc
+Reading file: NOX220330223733.RAWC1YF
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330223733.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330223733.nc
+Reading file: NOX220330203201.RAWC1WJ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330203201.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330203201.nc
+Reading file: NOX220330224202.RAWC1YH
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330224202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330224202.nc
+Reading file: NOX220330202216.RAWC1WG
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330202216.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330202216.nc
+Reading file: NOX220330204202.RAWC1WP
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330204202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330204202.nc
+Reading file: NOX220330213732.RAWC1XJ
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330213732.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330213732.nc
+Reading file: NOX220330214618.RAWC1XN
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330214618.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330214618.nc
+Reading file: NOX220331020202.RAWC2N9
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220331020202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220331020202.nc
+Reading file: NOX220330222738.RAWC1YA
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330222738.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330222738.nc
+Reading file: NOX220330223202.RAWC1YC
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330223202.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330223202.nc
+Reading file: NOX220330192758.RAWC1W5
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330192758.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330192758.nc
+Reading file: NOX220330194403.RAWC1W7
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330194403.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330194403.nc
+Reading file: NOX220330193212.RAWC1W6
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330193212.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330193212.nc
+Reading file: NOX220330194903.RAWC1W8
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330194903.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330194903.nc
+Reading file: NOX220330195317.RAWC1W9
+Saving Cfradial in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/NOXP/cfrad as NOX220330195317.nc
+Masking: reflectivity 
+
+Masking: velocity 
+
+Dropping unnecessary fields 
+
+Saving in /depot/dawson29/data/Projects/PERiLS/obsdata/2022/GRID/IOP2/NOXP as NOX220330195317.nc
